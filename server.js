@@ -1,3 +1,5 @@
+// TODO: api keys somewhere safe
+
 var API_KEY = '45303352',
     API_SECRET = '25d7037d7ce117a0774662caf48f7b1471a1fea7',
     OpenTok = require('opentok'),
